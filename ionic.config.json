@@ -1,0 +1,17 @@
+{
+  "defaultProject": "myApp",
+  "projects": {
+    "myApp": {
+      "name": "My App",
+      "integrations": {},
+      "type": "angular",
+      "root": "apps/myApp"
+    },
+    "myOtherApp": {
+      "name": "My Other App",
+      "integrations": {},
+      "type": "angular",
+      "root": "apps/myOtherApp"
+    }
+  }
+}
